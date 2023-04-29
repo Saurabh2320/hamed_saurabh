@@ -1,0 +1,19 @@
+{
+  "name": "hamed_sauabh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamit1985/hamed_sauabh.git"
+  },
+  "author": "hamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamit1985/hamed_sauabh/issues"
+  },
+  "homepage": "https://github.com/hamit1985/hamed_sauabh#readme"
+}
